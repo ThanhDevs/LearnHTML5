@@ -47,13 +47,15 @@ Học HTML5
 
 http://www.w3.org/TR/html5/
 
-## Code
+## Kênh Youtube & Codes
 
-https://github.com/ThanhDevs/LearnHTML5
+* Mỗi một video chỉ bao gồm một nội dung chính, và được khống chế trong 5 - 15p 
+ - Youtube 
+	@https://www.youtube.com/channel/UCj6UHJS3mZzCrrbq1L6AnfQ
+* Code sẽ được chia sẻ
+ - Github
+	@https://github.com/ThanhDevs/LearnHTML5
+ - Website cá nhân
+	@http://lavanthanh.com
 
-## Kênh Youtube
-
-https://www.youtube.com/channel/UCj6UHJS3mZzCrrbq1L6AnfQ
-
-http://lavanthanh.com
 
