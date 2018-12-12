@@ -43,14 +43,17 @@ Học HTML5
 20. HTML5- mark,u,small,s
 21. HTML5- cite,q,dfn,abbr
 
-## 官方文档
+## Website Chính thức của W3
 
 http://www.w3.org/TR/html5/
 
-## 源代码
+## Code
 
-http://git.oschina.net/komavideo/LearnHTML5
+https://github.com/ThanhDevs/LearnHTML5
 
-## 小马视频频道（优酷）
+## Kênh Youtube
 
-http://i.youku.com/komavideo
+https://www.youtube.com/channel/UCj6UHJS3mZzCrrbq1L6AnfQ
+
+http://lavanthanh.com
+
