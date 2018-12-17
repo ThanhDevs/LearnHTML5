@@ -60,7 +60,7 @@ HTML là phần tử gốc của một file html
 
 ### head
 
-Khu vực chứa thông tin miêu tả về website, Tiêu đề website, mô tả, từ khóa tìm kiếm, và các nội dung meta khác ...
+Khu vực chứa thông tin miêu tả về website, Tiêu đề website, mô tả tóm gọi nội dung, từ khóa tìm kiếm, và các nội dung meta khác ...
 
 **Ví dụ**
 
@@ -72,7 +72,7 @@ Khu vực chứa thông tin miêu tả về website, Tiêu đề website, mô t�
 
 ### body
 
-Chứa nội dung hiện thị khi client yêu cầu ra màn hình, trong file html chỉ có thể có một body 
+Chứa nội dung hiển thị khi client yêu cầu ra màn hình, trong file html chỉ có thể có một body 
 
 **Ví dụ**
 
