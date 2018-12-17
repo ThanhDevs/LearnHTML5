@@ -41,7 +41,7 @@ HTML là phần tử gốc của một file html
 **Thuộc tính đặc biệt**
 
 * manifest
- + Thêm vào bộ nhớ đện, giúp người dùng có thể duyệt web ngay cả khi offline,và giúp người dùng truy cập website nhanh hơn
+ + Thêm vào bộ nhớ đệm, giúp người dùng có thể duyệt web ngay cả khi offline, và giúp người dùng truy cập website nhanh hơn
 
 ~~~html
 <html manifest="example.appcache"></html>
@@ -60,7 +60,7 @@ HTML là phần tử gốc của một file html
 
 ### head
 
-Khu vực chứa thông tin miêu tả về website, Tiêu đề website, mô tả tóm gọi nội dung, từ khóa tìm kiếm, và các nội dung meta khác ...
+Khu vực chứa thông tin miêu tả về website, tiêu đề website, mô tả tóm gọi nội dung, từ khóa tìm kiếm, và các nội dung meta khác ...
 
 **Ví dụ**
 
