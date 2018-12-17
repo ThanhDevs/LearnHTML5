@@ -16,7 +16,6 @@ Học HTML5
 * Hình ảnh/ Âm thanh/ Hiệu ứng Chuyển động
 * Table (bảng)
 * Form 
-* Tương tác người dùng
 
 ## Website Chính thức của W3
 
