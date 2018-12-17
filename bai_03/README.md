@@ -34,7 +34,7 @@ Thiết lập thông tin cho website, thông qua giao thức http để chuyển
 
 ### meta.content
 
-name, http-equiv kết hợp sử dụng để truyền tải thông tin miêu tả cho nội dung web
+name, http-equiv kết hợp với content để truyền tải thông tin miêu tả cho nội dung web
 
 **Một số thuộc tính**
 
