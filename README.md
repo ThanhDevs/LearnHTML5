@@ -38,10 +38,10 @@ Học HTML5
 15. HTML5- Thẻ figure,figcaption
 16. HTML5- Thẻ pre,code
 17. HTML5- Thẻ div,hr
-18. HTML5- Thẻa
+18. HTML5- Thẻ a
 19. HTML5- Thẻ in đậm em,strong,b,i
-20. HTML5- mark,u,small,s
-21. HTML5- cite,q,dfn,abbr
+20. HTML5- Thẻ mark,u,small,s
+21. HTML5- Thẻ cite,q,dfn,abbr
 
 ## Website Chính thức của W3
 
