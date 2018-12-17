@@ -12,7 +12,7 @@ HTML CƠ BẢN
 
 ### DOCTYPE
 
-!Doctype không phải là một tag HTML, !Doctype chỉ cho trình duyệt web biết được phiên bản ngôn ngữ đánh dấu (markup language) nào được sử dụng trong trang web. “ Document Type Definition ” (DTD), DTD quy định cụ thể các quy tắc cho các ngôn ngữ đánh dấu, để làm cho các trình duyệt thông dịch thêm chính xác.
+!Doctype không phải là một tag HTML, !Doctype chỉ cho trình duyệt web biết được phiên bản ngôn ngữ đánh dấu (markup language) nào được sử dụng trong trang web. “Document Type Definition ” (DTD), DTD quy định cụ thể các quy tắc cho các ngôn ngữ đánh dấu, để làm cho các trình duyệt thông dịch thêm chính xác.
 
 **Ví dụ**
 
