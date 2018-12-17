@@ -1,6 +1,6 @@
 ### Chào mừng bạn đến với { HCJ TEAM }
 
-thẻ meta trong HTML5 
+Thẻ meta trong HTML5 
 ====================
 
 ## Nội dung chính（thẻ meta）
@@ -34,9 +34,9 @@ Thiết lập thông tin cho website, thông qua giao thức http để chuyển
 
 ### meta.content
 
-name, http-equiv kết hợp sử dụng để truyền tải thôn tin miêu tả cho nội dung web
+name, http-equiv kết hợp sử dụng để truyền tải thông tin miêu tả cho nội dung web
 
-**Một số thuột tính**
+**Một số thuộc tính**
 
 * content-type
 * default-style
@@ -46,13 +46,13 @@ name, http-equiv kết hợp sử dụng để truyền tải thôn tin miêu t�
 |  Tên thuộc tính | Miêu tả thuộc tính                                                    |
 |:----------------|:----------------------------------------------------------------------|
 | content-type    | Chỉ định mã hóa nội dung văn bản hiển thị                             |
-| default-style   | Chỉ định file style mặc định đực sử dụng                              |
-| refresh         | Dùng để Tự động làm mới hoặc chuyển trang                             |
-| set-cookie      | Dùng để thiết lập cookie cho website, nhưng không khyến khích sử dụng |
+| default-style   | Chỉ định file style mặc định được sử dụng                              |
+| refresh         | Dùng để tự động làm mới hoặc chuyển trang                             |
+| set-cookie      | Dùng để thiết lập cookie cho website, nhưng không khuyến khích sử dụng |
 
 ### meta.charset
 
-Chỉ định kiểu mã hóa văn bản, Khuyên dùng kiểu mã hóa utf8 
+Chỉ định kiểu mã hóa văn bản, khuyên dùng kiểu mã hóa utf8 
 
 ~~~html
 <meta charset="utf-8">
@@ -63,7 +63,7 @@ Chỉ định kiểu mã hóa văn bản, Khuyên dùng kiểu mã hóa utf8
 Chuẩn bị một số thông tin cho con robots tìm kiếm 
 
 ~~~html
-<!-- Đoạn mã này có thể ngăn chặn bộ máy tìm kiếm lưu vào bộ nhớ Cache, và thoe dõi trang web của chúng ta -->
+<!-- Đoạn mã này có thể ngăn chặn bộ máy tìm kiếm lưu vào bộ nhớ Cache, và theo dõi trang web của chúng ta -->
 <meta name="robots" content="noindex,nofollow">
 ~~~
 
